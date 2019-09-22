@@ -1,0 +1,69 @@
+div	{
+
+	font-size: 0px;
+}
+
+.main {
+
+	width: 800px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+.main > div {
+
+	border: 1px solid black;
+}
+
+.upper	{
+
+	height: 200px;
+	width: 100%;
+	display: inline-flex;
+}
+
+.upper-inner	{
+
+	width: 50%;
+	height: 100%
+}
+
+.lower	{
+
+	height: 300px;
+	width: 100%;
+	display: inline-flex;
+}
+
+.lower-inner	{
+
+	width: 33.33%;
+	height:100%;
+}
+
+.green	{
+
+	background-color: green;
+}
+
+.blue	{
+
+	background-color: blue;
+}
+
+.grey	{
+
+	background-color: grey;
+}
+
+.black	{
+
+	background-color: black;
+}
+
+.moccasin {
+
+	background-color: moccasin;
+}
